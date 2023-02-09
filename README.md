@@ -1,2 +1,2 @@
 # My-shop-
-## This is a flutter app that includes a shop interface .
+## This is a flutter app that includes a shop interface 
